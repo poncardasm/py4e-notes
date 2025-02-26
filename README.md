@@ -1,5 +1,7 @@
 # PY4E Notes
 
+![Hello, World!](./hello-world.png)
+
 This repository contains my notes and exercise files for the **Python for Everybody** course.
 
 ## About the Course
