@@ -15,4 +15,5 @@ Upon completing this course, students will be ready to take more advanced progra
 
 ## Course Website
 
-For more information about the course, visit: [https://www.py4e.com/](https://www.py4e.com/)
+- For more information about the course, visit: [https://www.py4e.com/](https://www.py4e.com/)
+- YouTube playlist: [Python for Everybody - Exploring Information in Python 3](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p)
