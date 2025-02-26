@@ -1,5 +1,7 @@
 # Installing Python
 
+Source: https://www.py4e.com/lessons/install
+
 The first task is to work through the installation steps including installing Python and text editor.
 
 ## Assignment Specification
