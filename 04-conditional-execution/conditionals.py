@@ -1,15 +1,26 @@
-astr = 'Hello Bob'
+# astr = 'Hello Bob'
+# try:
+#   istr = int(astr)
+# except:
+#   istr = -1
+
+# print('First', istr)
+
+# astr = '123'
+# try:
+#   istr = int(astr)
+# except:
+#   istr = -1
+
+# print('Second', istr)
+
+rawstr = input('Enter a number: ')
 try:
-  istr = int(astr)
+  ival = int(rawstr)
 except:
-  istr = -1
+  ival = -1
 
-print('First', istr)
-
-astr = '123'
-try:
-  istr = int(astr)
-except:
-  istr = -1
-
-print('Second', istr)
+if ival > 0 :
+  print('Nice work!')
+else :
+  print(f"{rawstr} is not a number")
